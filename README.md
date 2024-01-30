@@ -4,7 +4,7 @@ Feel the rush as you chase after the coveted high score, displayed prominently a
 Prepare for an adventure where each run tells a story, and every jump inches you closer to becoming a Wild Run legend. Lace up your virtual shoes, embrace the thrill of the chase, and immerse yourself in the boundless excitement of Wild Run! How far will your journey take you? There's only one way to find out!
 
 
-                                                                              INTRODUCTION
+                                                                INTRODUCTION
 
 	       
 Welcome to Wild Run, a dynamic and captivating endless runner game where your adventure is tracked and enhanced using a robust web-based system. Behind the scenes, JavaScript, PHP, HTML, and MySQL work seamlessly to bring you a personalized gaming experience.Using HTML for the game's structure and JavaScript for interactivity, Wild Run allows players to run endlessly through a prehistoric world, facing obstacles and ancient creatures. Meanwhile, PHP interacts with a MySQL database to store and manage player data, including usernames, scores, and high scores.
@@ -12,7 +12,7 @@ The database functionality ensures that your progress is saved and retrievable. 
 At the end of each run, the game proudly displays the player's username and score. For added excitement, the current high scorer's name and their high score are prominently showcased, motivating players to aim higher and compete for the top spot.Get ready for a thrilling adventure in Wild Run, where your every move is tracked and your achievements celebrated! Run, jump, and compete to see who can claim the title of the ultimate Wild Run champion.  
 
 
-                                                                             OBJECTIVES
+                                                                OBJECTIVES
 
 	      
 Endless Adventure: 
@@ -28,7 +28,7 @@ Score Update Mechanism:
   
 	
 
-                                                                             UML DIAGRAM
+                                                                 UML DIAGRAM
 ![image](https://github.com/rkram23/WildRun-game/assets/138103785/7178fade-50f9-4298-8301-492a5039dfd7)
   
 KEY FEATURES
@@ -48,7 +48,7 @@ High Score Mastery:
 	Challenge yourself to achieve and surpass high scores, providing a constant motivation to improve and showcase your skills as a Wild Run adventurer.
 
 
-                                                                             TECHNOLOGICAL STACK
+                                                                TECHNOLOGICAL STACK
 
 1. JavaScript:
    - Leveraging the power of Java for backend development, ensuring robustness, scalability, and compatibility across different platforms.
@@ -60,7 +60,7 @@ High Score Mastery:
      - MySQL is a popular open-source relational database management system (RDBMS) known for its efficiency and scalability. Widely used in web development, MySQL facilitates the storage, retrieval, and management of data for various applications and websites.
 
 
-                                                                             TECHNOLOGIES
+       								TECHNOLOGIES
 
 
 
@@ -70,7 +70,7 @@ High Score Mastery:
 •	Development Tools: Visual Studio Codes, XAMPP.
 
 
-MODULES
+							MODULES
 
 Login
 ![image](https://github.com/rkram23/WildRun-game/assets/138103785/f58f2468-941f-4e14-805b-4c77a06348e5)
@@ -89,7 +89,7 @@ Game-Over
 
 
 
-CONCLUSION
+								CONCLUSION
 
 In conclusion, Wild Run offers an exhilarating journey through a dynamically generated prehistoric world, blending accessibility with the thrill of endless running and strategic evasion. With competitive leaderboards, continuous score updates, and captivating surprises, the game not only challenges players but also fosters a sense of community in the pursuit of high scores. Get ready to lace up your virtual shoes, dive into the mesmerizing landscapes, and experience the endless excitement that Wild Run brings to the world of gaming. The adventure awaits, and the question remains: How far can you run?
 
