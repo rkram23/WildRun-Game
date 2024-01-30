@@ -31,7 +31,7 @@ Score Update Mechanism:
                                                                  UML DIAGRAM
 ![image](https://github.com/rkram23/WildRun-game/assets/138103785/7178fade-50f9-4298-8301-492a5039dfd7)
   
-KEY FEATURES
+ 								KEY FEATURES
 
 Endless Runner Dynamics:
  	Immerse yourself in a non-stop adventure where the game dynamically generates landscapes, obstacles, and challenges, providing an endless and ever-changing experience.
@@ -64,10 +64,10 @@ High Score Mastery:
 
 
 
-•	Frontend: HTML,CSS
-•	Backend: Php for handling user requests and database interactions
-•	Database: Relational database MySQL to store library data
-•	Development Tools: Visual Studio Codes, XAMPP.
+Frontend: HTML,CSS
+Backend: Php for handling user requests and database interactions
+Database: Relational database MySQL to store library data
+Development Tools: Visual Studio Codes, XAMPP.
 
 
 							MODULES
