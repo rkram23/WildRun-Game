@@ -51,9 +51,10 @@ window.onload = function () {
     const usernameContainer = document.createElement("div");
     usernameContainer.style.position = "absolute";
     usernameContainer.style.top = "10px";
-    usernameContainer.style.left = "500px";
+    usernameContainer.style.left = "600px";
     usernameContainer.style.color = "black";
-q    usernameContainer.textContent = "User: " + username;
+    usernameContainer.style.fontSize = "50px";
+    usernameContainer.textContent = "User: " + username;
     document.body.appendChild(usernameContainer);
 
     board = document.getElementById("board");
